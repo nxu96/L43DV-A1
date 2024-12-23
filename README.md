@@ -383,7 +383,3 @@ and outputs a point cloud. Then, using the cow mesh, randomly sample 10, 100, 10
 
 > <g>**Submission**</g>: Render each pointcloud and the original cow mesh side-by-side, and
 include the gif in your writeup.
-
-
-# 8. Attendance
-Please mark your attendance in the [canvas quiz](https://canvas.cmu.edu/courses/38857/quizzes/119664).
